@@ -28,7 +28,7 @@ function About() {
             I am Muhammad Hammad.
           </h1>
           <p className="text-white text-sm lg:text-base mt-4">
-            I'm a front-end developer, dedicated to creating intuitive and
+            I&apos;m a front-end developer, dedicated to creating intuitive and
             user-friendly web interfaces. My journey has involved continuous
             learning and applying front-end technologies through hands-on
             projects. Additionally, I have a foundational understanding of AI,

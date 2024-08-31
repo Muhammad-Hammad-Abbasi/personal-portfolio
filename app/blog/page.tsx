@@ -31,7 +31,7 @@ import Link from "next/link";
               className="w-full h-auto rounded-md"
             />
             <h1 className="text-xl font-bold font-serif mb-4 mt-3">
-              Why I don't miss React: A story about using the platform
+              Why I don&apos;t miss React: A story about using the platform
             </h1>
             <p>
               Just over two years ago I left a role at a London-based startup
