@@ -10,8 +10,8 @@ function Contact() {
       <div className="flex justify-center">
         <Image
           src={"/img.png"}
-          width={100}
-          height={100}
+          width={70}
+          height={0}
           alt="Profile Picture"
           className="rounded-full w-auto bg-bg shadow-lg transition-transform transform hover:scale-105"
         />
