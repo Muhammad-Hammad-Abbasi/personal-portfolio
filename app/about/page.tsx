@@ -8,10 +8,10 @@ function About() {
         About Me
       </div>
 
-      {/* Content Section */}
+     
       <div className="flex flex-col items-center justify-center space-y-4 px-4 py-8 lg:text-3xl sm:text-[20px] text-[15px]">
         
-        {/* Profile Image */}
+       
         <div className="flex flex-col items-center gap-3 py-6">
           <Image
             src="/img.png"
@@ -22,7 +22,7 @@ function About() {
           />
         </div>
 
-        {/* Description Container */}
+      
         <div className="bg-text border-cyan-100 border-y-2 rounded-2xl shadow-lg transition-transform transform hover:scale-105 w-full max-w-[90%] md:max-w-[80%] lg:max-w-[750px] p-6 text-center">
           <h1 className="text-white text-2xl lg:text-3xl">
             I am Muhammad Hammad.

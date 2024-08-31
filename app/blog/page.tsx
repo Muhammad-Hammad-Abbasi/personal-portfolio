@@ -19,7 +19,7 @@ import Link from "next/link";
       <div className="pt-20">
         <div className="mx-[50px] shadow-lg hover:shadow-xl transition-shadow duration-300 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-[50px]">
           
-          {/* Blog Post 1 */}
+
           <div className="shadow-lg pb-[20px] bg-white px-4 py-4 mb-4 border rounded-lg">
             <Image
               src="/react-img.png"
@@ -46,7 +46,7 @@ import Link from "next/link";
             </div>
           </div>
 
-          {/* Blog Post 2 */}
+
           <div className="shadow-lg pb-[20px] bg-white px-4 py-4 mb-4 rounded-lg">
             <Image
               src="/next-js-img.png"
@@ -73,7 +73,7 @@ import Link from "next/link";
             </div>
           </div>
 
-          {/* Blog Post 3 */}
+
           <div className="shadow-lg pb-[20px] bg-white px-4 py-4 mb-4 rounded-lg">
             <Image
               src="/js-img.png"
@@ -100,7 +100,7 @@ import Link from "next/link";
             </div>
           </div>
 
-          {/* Blog Post 4 */}
+
           <div className="shadow-lg pb-5 bg-white px-4 py-4 mb-4 rounded-lg">
   <Image
     src="/ts-img.png"
@@ -128,7 +128,7 @@ import Link from "next/link";
 </div>
 
 
-          {/* Blog Post 5 */}
+
           <div className="shadow-lg pb-[20px] bg-white px-4 py-4 mb-4 rounded-lg">
             <Image
               src="/css-img.png"
@@ -156,7 +156,7 @@ import Link from "next/link";
             </div>
           </div>
 
-          {/* Blog Post 6 */}
+      
           <div className="shadow-lg pb-[20px] bg-white px-4 py-4 mb-4 rounded-lg">
             <Image
               src="/web-img.png"
